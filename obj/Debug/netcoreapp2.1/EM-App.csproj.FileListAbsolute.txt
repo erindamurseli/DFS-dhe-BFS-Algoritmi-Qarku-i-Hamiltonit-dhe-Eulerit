@@ -10,15 +10,3 @@ C:\Users\DIGITRON\Desktop\Tema e Diplomes\EM\EM-App\obj\Debug\netcoreapp2.1\EM-A
 C:\Users\DIGITRON\Desktop\Tema e Diplomes\EM\EM-App\obj\Debug\netcoreapp2.1\EM-App.dll
 C:\Users\DIGITRON\Desktop\Tema e Diplomes\EM\EM-App\obj\Debug\netcoreapp2.1\EM-App.pdb
 C:\Users\DIGITRON\Desktop\Tema e Diplomes\EM\EM-App\obj\Debug\netcoreapp2.1\EM-App.genruntimeconfig.cache
-C:\Users\DIGITRON\Desktop\EM-App\bin\Debug\netcoreapp2.1\EM-App.deps.json
-C:\Users\DIGITRON\Desktop\EM-App\bin\Debug\netcoreapp2.1\EM-App.runtimeconfig.json
-C:\Users\DIGITRON\Desktop\EM-App\bin\Debug\netcoreapp2.1\EM-App.runtimeconfig.dev.json
-C:\Users\DIGITRON\Desktop\EM-App\bin\Debug\netcoreapp2.1\EM-App.dll
-C:\Users\DIGITRON\Desktop\EM-App\bin\Debug\netcoreapp2.1\EM-App.pdb
-C:\Users\DIGITRON\Desktop\EM-App\obj\Debug\netcoreapp2.1\EM-App.csprojAssemblyReference.cache
-C:\Users\DIGITRON\Desktop\EM-App\obj\Debug\netcoreapp2.1\EM-App.AssemblyInfoInputs.cache
-C:\Users\DIGITRON\Desktop\EM-App\obj\Debug\netcoreapp2.1\EM-App.AssemblyInfo.cs
-C:\Users\DIGITRON\Desktop\EM-App\obj\Debug\netcoreapp2.1\EM-App.csproj.CoreCompileInputs.cache
-C:\Users\DIGITRON\Desktop\EM-App\obj\Debug\netcoreapp2.1\EM-App.dll
-C:\Users\DIGITRON\Desktop\EM-App\obj\Debug\netcoreapp2.1\EM-App.pdb
-C:\Users\DIGITRON\Desktop\EM-App\obj\Debug\netcoreapp2.1\EM-App.genruntimeconfig.cache

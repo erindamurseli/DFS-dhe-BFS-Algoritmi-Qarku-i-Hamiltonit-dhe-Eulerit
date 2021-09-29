@@ -8,21 +8,35 @@ namespace EM_App
     // Kjo klasë paraqet një graf të padrejtuar duke përdorur listën e fqijnesise
     {
         private int Kulmet; //Nr i kulmeve/nyjeve
-
         private List<int>[] lidhjaEKulmeve; //Vargu i listes qe paraqet lidhjen e kulmeve
 
-        public Graph(int kulmet)
+        public Graph()
         {
+            Console.WriteLine("sa kulme keni:");
+            int kulmet;
+            kulmet = int.Parse(Console.ReadLine());
             Kulmet = kulmet;
             lidhjaEKulmeve = new List<int>[kulmet];
             for (int i = 0; i < kulmet; ++i)
                 lidhjaEKulmeve[i] = new List<int>();
         }
-        public void ShtoNyje(int kulmet, int w)
+        public void ShtoNyje()
         {
             // Graf jo i drejtuar
-            lidhjaEKulmeve[kulmet].Add(w);//Shto w në listën  kulmet
-            lidhjaEKulmeve[w].Add(kulmet);
+           
+            for(int i=0;i<Kulmet;i++){
+                for(int j=0;j<Kulmet;j++){
+                    Console.WriteLine("Nese ka dege mes dy kulmeve vendos 1 ne te kunderten 0!");
+                    Console.WriteLine("Dega: (" +i+ "," +j+") = ");
+                    int dega =int.Parse(Console.ReadLine());
+                    if (dega == 1){
+                        lidhjaEKulmeve[dega].Add(j);//Shto w në listën  kulmet
+                        lidhjaEKulmeve[j].Add(dega);
+                    }
+                    
+                }
+            }
+            
         }
         public string eshteHamiltonian()
         {
